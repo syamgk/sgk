@@ -1,4 +1,3 @@
-syam.github.io
-==============
 
-blog
+blog url
+http://syamgk.github.io/sgk
